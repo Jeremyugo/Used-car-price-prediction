@@ -9,9 +9,16 @@ In this repository, we create a simple regression model.
 - Seaborn
 - Matplotlib
 
-#### Estimators (Validation set)
-  ![image](https://github.com/Jeremyugo/Used-car-price-prediction/assets/36512525/7fa20f9c-0b3a-4120-b7f9-3a881a7ddd2a)
+#### Residual plot - Estimators (Validation Set)
+![image](https://github.com/Jeremyugo/Used-car-price-prediction/assets/36512525/20ad4086-204b-4bdb-96f2-62bdfceb752f)
+
+#### Predictions vs Actual - Estimators
+![image](https://github.com/Jeremyugo/Used-car-price-prediction/assets/36512525/6a043aaf-782f-499d-89ff-4e41b46d266d)
 
 
-#### Final model - Voting regressor (Test set)
-![image](https://github.com/Jeremyugo/Used-car-price-prediction/assets/36512525/9260159c-4eee-4cf5-a171-841f41e4ab8c)
+
+#### Residual plot - Voting regressor (Test set)
+![image](https://github.com/Jeremyugo/Used-car-price-prediction/assets/36512525/abc3a247-b352-480f-8e5f-87eeb33ca347)
+
+#### Predictions vs Actual - Voting regressor
+![image](https://github.com/Jeremyugo/Used-car-price-prediction/assets/36512525/84493602-f7f6-4a6a-a25a-7439ea43ad5f)
